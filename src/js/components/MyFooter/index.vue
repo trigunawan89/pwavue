@@ -1,7 +1,7 @@
 
 <template>
   <footer class="Footer">
-    <p class="text-center Footer-copyright">Copyright &copy; Naufal Rabbani</p>
+    <p class="text-center Footer-copyright">Copyright &copy; TG</p>
   </footer>
 </template>
 
