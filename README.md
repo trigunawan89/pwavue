@@ -1,6 +1,4 @@
 # Vue Simple PWA
 
-Simple Progressive Web App Example Built With Vue.js. [https://bosnaufal.github.io/react-simple-pwa](https://bosnaufal.github.io/react-simple-pwa).
+Simple Progressive Web App Example Built With Vue.js. [https://trigunawan89.github.io/pwavue/](https://trigunawan89.github.io/pwavue/).
 
-### Hey, Don't Forget To Check My [Vue Starter](https://github.com/BosNaufal/vue-starter)!
-# pwavue
