@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BosNaufal/vue-starter.git"
+    "url": "git+https://github.com/BosTG/vue-starter.git"
   },
   "keywords": [
     "vue",
@@ -19,12 +19,12 @@
     "vue-boilerplate",
     "boilerplate"
   ],
-  "author": "Tri Gunawan <bosnaufalemail@gmail.com>",
+  "author": "Tri Gunawan <bosTGemail@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BosNaufal/vue-starter/issues"
+    "url": "https://github.com/BosTG/vue-starter/issues"
   },
-  "homepage": "https://github.com/BosNaufal/vue-starter#readme",
+  "homepage": "https://github.com/BosTG/vue-starter#readme",
   "devDependencies": {
     "babel-core": "^6.3.17",
     "babel-loader": "^6.2.0",
